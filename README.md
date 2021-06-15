@@ -1,0 +1,1 @@
+These are different code created across multiple projects. These are useful Excel automations for future.
