@@ -1,0 +1,1 @@
+The code is created for a specific use case of performing ETL using only Excel and VB coding.
